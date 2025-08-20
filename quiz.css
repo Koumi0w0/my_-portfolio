@@ -1,0 +1,24 @@
+p1{ 
+    font-family:  'Times New Roman';
+    font-size: 100%;
+    font-weight: lighter;
+    text-decoration: line-through;
+}
+p2 { 
+    font-family: 'Franklin Gothic Medium';
+    font-size:   130%;
+    font-weight: lighter;
+    text-decoration: line-through;
+}
+p3 { 
+    font-family: 'Trebuchet MS';
+    font-size: 150%;
+    font-weight: lighter;
+    text-decoration: line-through;
+}
+body {
+    background-image: url(f4a6ac104615215.60de81c159db3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
