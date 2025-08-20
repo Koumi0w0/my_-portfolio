@@ -1,0 +1,13 @@
+table, th, td {
+    border-top: 1px solid rgb(255, 134, 134);
+    border-bottom: 1px solid rgb(139, 139, 255);
+    border-left: 5px groove rgb(251, 131, 255);
+    border-right: 5px inset gray;
+    border-collapse: collapse;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin: 30px;
+}
+
